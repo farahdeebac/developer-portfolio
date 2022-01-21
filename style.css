@@ -1,0 +1,43 @@
+body{
+    font-family: 'Lobster', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.purple{
+    color: rgb(155, 80, 155);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+}
+.half-width-image{
+    width: 80%;
+   
+    
+}
+.plum{
+    color: ;
+}
+p{
+    font-size: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(138, 67, 138), rgb(247, 184, 247)
+
+    );
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+   
+}
