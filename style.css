@@ -4,16 +4,23 @@ body{
 }
 h1{
     font-size: 50px;
+
+}
+.pink{
+    color: rgb(209, 64, 88);
 }
 .purple{
     color: rgb(155, 80, 155);
 }
 section{
     display: flex;
+    margin-top: 15%;
+
 }
 .half-width{
     width: 50%;
     padding-left: 4%;
+    padding-right: 6%;
 }
 .half-width-image{
     width: 80%;
@@ -39,5 +46,21 @@ p{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-   
-}
+   }
+
+    .link-button2{
+        text-decoration: none;
+        background-image: linear-gradient(rgb(209, 64, 88), rgb(247, 184, 247)
+    
+        );
+        padding: 10px 40px;
+        color: white;
+        font-weight: 700;
+        border-radius: 5px;
+    }
+    .my-works{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+       
